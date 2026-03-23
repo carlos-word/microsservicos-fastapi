@@ -89,7 +89,8 @@ O serviço de pedidos retornou corretamente os dados do pedido junto com as info
 ### ❌ 2. Pedido inexistente
 
 📸 PRINT:
-(cole aqui o print)
+<img width="713" height="751" alt="Captura de tela 2026-03-23 171126" src="https://github.com/user-attachments/assets/9b142b48-e488-4ef3-8865-98327935231c" />
+
 
 Descrição:
 Foi feita uma requisição com um ID inválido e o sistema retornou erro informando que o pedido não foi encontrado.
