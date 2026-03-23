@@ -46,8 +46,8 @@ Essa comunicação é síncrona, ou seja, o serviço de pedidos depende da respo
 ### 1. Clonar o repositório
 
 ```bash
-git clone <SEU_LINK_AQUI>
-cd <SEU_PROJETO>
+git clone https://github.com/carlos-word/microsservicos-fastapi.git
+cd microsservicos-fastapi
 ```
 
 ### 2. Executar os serviços
