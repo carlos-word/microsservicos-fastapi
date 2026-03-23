@@ -215,7 +215,18 @@ Foi realizada a busca de um usuário específico pelo seu ID no serviço de usu�
 ```
 http://localhost:8001/users/1
 ```
+### 🔎 8. Buscar Order específico
 
+<img width="723" height="741" alt="Captura de tela 2026-03-23 183550" src="https://github.com/user-attachments/assets/18cb5a65-66be-4868-9b80-a3cecb9e5a5e" />
+
+**Descrição:**  
+Foi realizada a busca de um pedido específico pelo seu ID no serviço de pedidos, retornando os dados do pedido junto com as informações do usuário associado.
+
+**Como reproduzir:**
+
+```
+http://localhost:8002/orders/2
+```
 ---
 
 ## ⚠️ Problemas Identificados
