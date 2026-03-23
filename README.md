@@ -78,8 +78,8 @@ http://localhost:8002/orders/1
 
 ### ✅ 1. Comunicação normal
 
-📸 PRINT:
-(cole aqui o print)
+<img width="716" height="740" alt="Captura de tela 2026-03-23 171031" src="https://github.com/user-attachments/assets/53f0094d-c456-4eb9-b57f-2c2dc3ac8f4a" />
+
 
 Descrição:
 O serviço de pedidos retornou corretamente os dados do pedido junto com as informações do usuário.
@@ -88,7 +88,6 @@ O serviço de pedidos retornou corretamente os dados do pedido junto com as info
 
 ### ❌ 2. Pedido inexistente
 
-📸 PRINT:
 <img width="713" height="751" alt="Captura de tela 2026-03-23 171126" src="https://github.com/user-attachments/assets/9b142b48-e488-4ef3-8865-98327935231c" />
 
 
@@ -99,8 +98,8 @@ Foi feita uma requisição com um ID inválido e o sistema retornou erro informa
 
 ### 🔥 3. Falha de comunicação entre serviços
 
-📸 PRINT:
-(cole aqui o print)
+<img width="712" height="739" alt="Captura de tela 2026-03-23 171206" src="https://github.com/user-attachments/assets/65e38844-34c5-4b4f-840d-b8aa3ea45f1a" />
+
 
 Descrição:
 O serviço de usuários foi desligado, e o serviço de pedidos retornou erro ao tentar se comunicar.
