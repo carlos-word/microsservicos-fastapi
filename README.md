@@ -108,8 +108,8 @@ O serviço de usuários foi desligado, e o serviço de pedidos retornou erro ao 
 
 ### 🐢 4. Teste de latência
 
-📸 PRINT:
-(cole aqui o print)
+<img width="780" height="746" alt="Captura de tela 2026-03-23 173711" src="https://github.com/user-attachments/assets/3f67b0bb-0c68-49c7-a830-91c6605e8aca" />
+
 
 Descrição:
 Foi adicionado um atraso no serviço de usuários utilizando `time.sleep()`, aumentando o tempo de resposta do sistema.
