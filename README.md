@@ -116,6 +116,18 @@ Foi adicionado um atraso no serviço de usuários utilizando `time.sleep()`, aum
 
 ---
 
+###  ✅ 4. Teste do Users Service
+
+<img width="719" height="737" alt="Captura de tela 2026-03-23 174608" src="https://github.com/user-attachments/assets/02e55ec3-3ffc-453c-bf70-87839b2f2640" />
+
+---
+
+###  ✅ 5. Teste do Orders Service
+
+<img width="716" height="741" alt="Captura de tela 2026-03-23 174545" src="https://github.com/user-attachments/assets/24092820-d58e-4ca8-842b-25b4417fb0d9" />
+
+---
+
 ## ⚠️ Problemas Identificados
 
 * Forte acoplamento entre os serviços
